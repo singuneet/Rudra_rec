@@ -1,0 +1,9 @@
+-module(helloworld).
+-export([start/N]).
+
+start(N) ->
+   
+
+     io:fwrite("~0.Nf",[22/7]).
+     
+start(N).
